@@ -1,0 +1,86 @@
+{
+  "title": "Вариант B: Янтарь Яви и Бирюза Нави",
+  "text": "Ось: жёсткий цветовой раскол между мирами. Живой огонь игрока — тёплый янтарь (#e05a1b), а Алтари и проклятия Нави — холодный призрачный циан (#47d1b6) поверх сизо-сланцевого тумана.",
+  "palette": [
+    "#101417",
+    "#2c353d",
+    "#e05a1b",
+    "#47d1b6",
+    "#8c2d2d"
+  ],
+  "tags": [
+    "R2",
+    "теплый-против-холодного",
+    "мгновенная читаемость"
+  ],
+  "items": [
+    {
+      "file": "gen-2182a356.jpg",
+      "url": "",
+      "page": "",
+      "title": "r2_witchlight_split_1795389428510",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "R2 концепт B: тёплый янтарь факела в грязи против холодного разлома Нави",
+      "w": 1376,
+      "h": 768,
+      "sha1": "2182a356696d4d762872bc1852e3ac3cf71d4e9d",
+      "prompt": "Embers in the Mire Variant B Witchlight Split"
+    },
+    {
+      "file": "local-0a0147f9.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-0a0147f9",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "якорь B: призрачный сине-бирюзовый фонарь против огня и пепла (Lords of the Fallen)",
+      "w": 1918,
+      "h": 1080,
+      "sha1": "0a0147f92a250a38ddd40c8f6eb7c923a49556d3"
+    },
+    {
+      "file": "local-f2ef7c14.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-f2ef7c14",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "якорь B: плотная болотная дымка для глубины Нави (Diablo IV)",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "f2ef7c14c7ce3544dcd62117c6e547f846809c97"
+    },
+    {
+      "file": "local-251b1d61.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-251b1d61",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "якорь B: жуткое свечение глаз и отражение света на чёрной воде (Bramble)",
+      "w": 1536,
+      "h": 864,
+      "sha1": "251b1d61070be849de7f10f5dae48165ecfad58e"
+    }
+  ],
+  "pros": [
+    "сдвиг уровня в Навь читается за доли секунды",
+    "идеальная читаемость угроз для дальтоников и в бою"
+  ],
+  "cons": [
+    "холодная бирюза требует аккуратного баланса, чтобы не уйти в неон"
+  ]
+}

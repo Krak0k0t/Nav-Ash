@@ -1,0 +1,182 @@
+{
+  "title": "Навь и Пепел — Угли в трясине (Раунд 2: свет и цвет Нави)",
+  "subtitle": "3 вариации освещения и сдвига в Навь",
+  "question": "Какой баланс света Яви и цвета Нави фиксируем в Арт-библию?",
+  "mode": "single",
+  "options": [
+    {
+      "id": "ember-mire-crimson",
+      "title": "Вариант A: Алый Жар и Копоть",
+      "text": "Ось: тёпло-агрессивная Навь. Факел и сталь — янтарь (#e05a1b), а сдвиг у Алтаря Нави заливает уровень багровым жаром, кровью и густой копотью. Максимальный накал в духе Diablo IV Hell/Bloodtide.",
+      "palette": [
+        "#0f0d0c",
+        "#2b2522",
+        "#e05a1b",
+        "#9e1b1b",
+        "#454b54"
+      ],
+      "tags": [
+        "R2",
+        "тёплый+багровый",
+        "высокая контрастность"
+      ],
+      "pros": [
+        "единый горячий язык боя",
+        "кровь и руны горят поверх тёмного торфа"
+      ],
+      "cons": [
+        "огонь факела и магия Нави в одном тёплом диапазоне — нужно следить за разделением угроз"
+      ],
+      "media": [
+        {
+          "src": "../../refs/ember-mire-crimson/gen-fa56f3de.jpg",
+          "caption": "R2 концепт A: факел Яви против алого алтаря Нави и густой копоти",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        },
+        {
+          "src": "../../refs/ember-mire-crimson/local-bd9eb6ba.jpg",
+          "caption": "якорь A: агрессивный жар огня на тёмном мокром камне (PoE2)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire-crimson/local-854ea36f.jpg",
+          "caption": "якорь A: алые и золотые вспышки телеграфов в кромешной тьме (Diablo IV)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire-crimson/local-f2ef7c14.jpg",
+          "caption": "якорь A: горящие остовы в болотной дымке (Diablo IV)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "ember-mire-witchlight",
+      "title": "Вариант B: Янтарь Яви и Бирюза Нави",
+      "text": "Ось: жёсткий цветовой раскол между мирами. Живой огонь игрока — тёплый янтарь (#e05a1b), а Алтари и проклятия Нави — холодный призрачный циан (#47d1b6) поверх сизо-сланцевого тумана.",
+      "palette": [
+        "#101417",
+        "#2c353d",
+        "#e05a1b",
+        "#47d1b6",
+        "#8c2d2d"
+      ],
+      "tags": [
+        "R2",
+        "теплый-против-холодного",
+        "мгновенная читаемость"
+      ],
+      "pros": [
+        "сдвиг уровня в Навь читается за доли секунды",
+        "идеальная читаемость угроз для дальтоников и в бою"
+      ],
+      "cons": [
+        "холодная бирюза требует аккуратного баланса, чтобы не уйти в неон"
+      ],
+      "media": [
+        {
+          "src": "../../refs/ember-mire-witchlight/gen-2182a356.jpg",
+          "caption": "R2 концепт B: тёплый янтарь факела в грязи против холодного разлома Нави",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        },
+        {
+          "src": "../../refs/ember-mire-witchlight/local-0a0147f9.jpg",
+          "caption": "якорь B: призрачный сине-бирюзовый фонарь против огня и пепла (Lords of the Fallen)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire-witchlight/local-f2ef7c14.jpg",
+          "caption": "якорь B: плотная болотная дымка для глубины Нави (Diablo IV)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire-witchlight/local-251b1d61.jpg",
+          "caption": "якорь B: жуткое свечение глаз и отражение света на чёрной воде (Bramble)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "ember-mire-moonlit",
+      "title": "Вариант C: Лунная Сумерь и Сусальный Свет",
+      "text": "Ось: сдержанный кинематографичный полумрак. Холодные косые лучи серебряной луны (#6c7f94) режут берёзовый туман, а редкие руны и клинки вспыхивают приглушённым золотом (#d9a441).",
+      "palette": [
+        "#11161c",
+        "#33414f",
+        "#6c7f94",
+        "#d9a441",
+        "#a62c2b"
+      ],
+      "tags": [
+        "R2",
+        "объёмный свет",
+        "сдержанный реализм"
+      ],
+      "pros": [
+        "самый киношный и «славянский» по воздуху вариант",
+        "минимум визуального шума"
+      ],
+      "cons": [
+        "сложнее передать резкий скачок при активации Алтаря Нави без яркого акцента"
+      ],
+      "media": [
+        {
+          "src": "../../refs/ember-mire-moonlit/gen-2469ad04.jpg",
+          "caption": "R2 концепт C: косые лучи луны сквозь берёзы и приглушённое золото рун",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        },
+        {
+          "src": "../../refs/ember-mire-moonlit/local-567e9aa3.jpg",
+          "caption": "якорь C: холодный предрассветный туман и косые лучи света (Hellblade)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire-moonlit/local-93300341.jpg",
+          "caption": "якорь C: сдержанная каменная кладка с читаемыми золотыми лучами (PoE2)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire-moonlit/local-a899d8b2.jpg",
+          "caption": "якорь C: резкий одинокий конус света в монохромной темноте (Darkwood)",
+          "source": "",
+          "credit": "",
+          "license": "",
+          "generated": false
+        }
+      ]
+    }
+  ]
+}

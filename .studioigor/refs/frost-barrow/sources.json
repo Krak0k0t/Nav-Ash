@@ -1,0 +1,109 @@
+{
+  "title": "Иней на Курганах (северный реализм)",
+  "text": "Правило: обесцвеченный морозный туман и ржавое железо; косые лучи зимнего света и призрачная бирюза Нави лепят глубину. Настроение: звенящая предрассветная стужа древнего кургана. Форма: каменные курганы, меха, кольчуги, голые берёзы. Цвет: ледяной шифер, ржавчина, иней + бирюза Нави.",
+  "palette": [
+    "#202a33",
+    "#5d6f7d",
+    "#593c2e",
+    "#d8e0e6",
+    "#48c7b8"
+  ],
+  "tags": [
+    "3D",
+    "PBR",
+    "объемный свет",
+    "зимний реализм"
+  ],
+  "items": [
+    {
+      "file": "steam-567e9aa3.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_c873e1a5f9e9218d6d3b2038b7063489879d315d.1920x1080.jpg?t=1776350290",
+      "page": "https://store.steampowered.com/app/414340/",
+      "title": "Hellblade: Senua's Sacrifice — screenshot 1",
+      "credit": "Ninja Theory",
+      "license": "© Ninja Theory — moodboard only",
+      "api": "steam",
+      "query": "Hellblade: Senua's Sacrifice",
+      "generated": false,
+      "note": "холодный туман на воде, косые лучи и суровый северный реализм",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "567e9aa3d5a5c38003d8dd52c72a66b17d0eb229"
+    },
+    {
+      "file": "steam-9a69ced1.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_6d653f7215d5a60330a85c27116f07a0c5dbc670.1920x1080.jpg?t=1776350290",
+      "page": "https://store.steampowered.com/app/414340/",
+      "title": "Hellblade: Senua's Sacrifice — screenshot 2",
+      "credit": "Ninja Theory",
+      "license": "© Ninja Theory — moodboard only",
+      "api": "steam",
+      "query": "Hellblade: Senua's Sacrifice",
+      "generated": false,
+      "note": "кинематографичный крупный план для фаз боссов и кат-сцен",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "9a69ced17a344ec2e3016f1b7d3b373734e4f797"
+    },
+    {
+      "file": "steam-0a0147f9.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/741bdea1df8f5b7e694cd9cf1a055f61da23aa7a/ss_741bdea1df8f5b7e694cd9cf1a055f61da23aa7a.1920x1080.jpg?t=1792592985",
+      "page": "https://store.steampowered.com/app/1501750/",
+      "title": "Lords of the Fallen — screenshot 1",
+      "credit": "CI Games",
+      "license": "© CI Games — moodboard only",
+      "api": "steam",
+      "query": "Lords of the Fallen",
+      "generated": false,
+      "note": "призрачный синий фонарь и тлеющие угли на границе двух миров",
+      "w": 1918,
+      "h": 1080,
+      "sha1": "0a0147f92a250a38ddd40c8f6eb7c923a49556d3"
+    },
+    {
+      "file": "gen-878e15ba.jpg",
+      "url": "",
+      "page": "",
+      "title": "concept_frost_barrow_1795389072069",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "концепт-кадр: зимний курган, берёзы, косые лучи света и бирюзовый разлом Нави",
+      "w": 1376,
+      "h": 768,
+      "sha1": "878e15bad7117818746e88500a457c6ce045b07f",
+      "prompt": "Frost and Barrow Iron Slavic winter kurgan, bare birches and cyan Nav fissure"
+    }
+  ],
+  "pros": [
+    "кинематографичный реализм в духе Hellblade и Ведьмака",
+    "отличная видимость силуэтов на снегу"
+  ],
+  "cons": [
+    "тяжёлые PBR-материалы и кожа/мех дороже для браузерного бюджета"
+  ],
+  "dropped": [
+    {
+      "file": "steam-2db59f4e.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_e028a26ea54438d898a574ebe73d1c633c7cc8eb.1920x1080.jpg?t=1776350290",
+      "sha1": "2db59f4ea6d59c91dc6b9a11a04c53f50a00fdd9"
+    },
+    {
+      "file": "steam-08a0673c.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/ss_f5c08e784ff587ad38d775c59ca6ad4bf6166ac9.1920x1080.jpg?t=1776350290",
+      "sha1": "08a0673c718c40a0f344d110aad5d0dc8227bdad"
+    },
+    {
+      "file": "steam-07ca132d.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/ss_dccd501a0b49d5ab317cf3c3d9073e5968db2af9.1920x1080.jpg?t=1792592985",
+      "sha1": "07ca132dd11cac3ad1286858333b73e4d0c40a89"
+    },
+    {
+      "file": "steam-a6a6b3b6.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/ecb5a5df054344bf681282edb3ed76499e675605/ss_ecb5a5df054344bf681282edb3ed76499e675605.1920x1080.jpg?t=1792592985",
+      "sha1": "a6a6b3b639bef7ecd5c4fed57ee1b63d3325fce7"
+    }
+  ]
+}

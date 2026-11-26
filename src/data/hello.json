@@ -1,0 +1,17 @@
+{
+  "moveSpeed": 5.8,
+  "dashSpeed": 14.5,
+  "dashDuration": 0.2,
+  "dashCooldown": 0.9,
+  "arenaRadius": 13.5,
+  "altarRadius": 3.4,
+  "altarPosition": { "x": 0, "z": -3.2 },
+  "heroStart": { "x": 0, "z": 3.0 },
+  "camera": {
+    "isoOffset": { "x": 0, "y": 14.5, "z": 12.0 },
+    "isoFov": 42,
+    "cinematicOffset": { "x": 3.4, "y": 3.1, "z": 5.4 },
+    "cinematicFov": 35,
+    "dampLambda": 6.5
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "title": "Навь и Пепел — Выбор визуального стиля (Раунд 1)",
+  "subtitle": "4 направления Dark Slavic Fantasy",
+  "question": "Какое направление ближе по атмосфере? Можно отметить понравившиеся кадры или скомбинировать в Раунде 2.",
+  "mode": "single",
+  "options": [
+    {
+      "id": "ember-mire",
+      "title": "Угли в трясине (как Diablo IV)",
+      "text": "Правило: тёплый огонь факелов и заклинаний отражается в мокрой грязи и стали; всё за границей света тонет в холодном лунном тумане. Настроение: удушливые осенние сумерки. Форма: тяжёлые срубы, коряги, ковка. Цвет: торф и уголь + лунный сланец + янтарный огонь и кровь.",
+      "palette": [
+        "#141210",
+        "#2b2723",
+        "#485665",
+        "#e05a1b",
+        "#9e1b1b"
+      ],
+      "tags": [
+        "3D",
+        "PBR",
+        "темнота+огонь",
+        "нужен постобработчик"
+      ],
+      "pros": [
+        "читаемость боя и лута проверена в Diablo IV",
+        "живой контраст теплого и холодного"
+      ],
+      "cons": [
+        "риск выглядеть слишком похоже на Diablo IV",
+        "требует честного динамического света"
+      ],
+      "media": [
+        {
+          "src": "../../refs/ember-mire/steam-854ea36f.jpg",
+          "caption": "читаемость боя в темноте: яркие телеграфы заклинаний на сыром камне",
+          "source": "https://store.steampowered.com/app/2344520/",
+          "credit": "Blizzard Entertainment, Inc.",
+          "license": "© Blizzard Entertainment, Inc. — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire/steam-f2ef7c14.jpg",
+          "caption": "горящие остовы в туманном болоте — баланс тепла огня и мутной дымки",
+          "source": "https://store.steampowered.com/app/2344520/",
+          "credit": "Blizzard Entertainment, Inc.",
+          "license": "© Blizzard Entertainment, Inc. — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire/steam-93300341.jpg",
+          "caption": "тяжёлая каменная кладка и читаемый контраст эффектов атаки",
+          "source": "https://store.steampowered.com/app/2694490/",
+          "credit": "Grinding Gear Games",
+          "license": "© Grinding Gear Games — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire/steam-fee23055.jpg",
+          "caption": "плотность деталей окружения без потери силуэта героя",
+          "source": "https://store.steampowered.com/app/2694490/",
+          "credit": "Grinding Gear Games",
+          "license": "© Grinding Gear Games — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire/steam-bd9eb6ba.jpg",
+          "caption": "агрессивный янтарный огонь освещает холодный мокрый пол и обломки",
+          "source": "https://store.steampowered.com/app/2694490/",
+          "credit": "Grinding Gear Games",
+          "license": "© Grinding Gear Games — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/ember-mire/gen-8b347539.jpg",
+          "caption": "концепт-кадр: срубы в болоте, отражения факелов в грязи против холодного тумана",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        }
+      ]
+    },
+    {
+      "id": "black-icon",
+      "title": "Чёрный Иконостас (смелый)",
+      "text": "Правило: почти монохромный мир золы и обугленного дерева, где цвет оставлен только для сакрального огня, крови и проклятий Нави. Настроение: суровый литургический хоррор. Форма: высокие острые срубы, железные нимбы, иглы елей. Цвет: обсидиан, кость + сусальное золото и алый акцент.",
+      "palette": [
+        "#0c0c0e",
+        "#333238",
+        "#c8bfa8",
+        "#d49b35",
+        "#b81d24"
+      ],
+      "tags": [
+        "3D",
+        "монохром+акцент",
+        "высокий контраст"
+      ],
+      "pros": [
+        "моментально узнаваемый кадр",
+        "сдвиг в Навь читается мгновенно",
+        "дешевле по текстурам"
+      ],
+      "cons": [
+        "монохром может утомлять в длинной кампании",
+        "легко потерять детали на тёмном экране"
+      ],
+      "media": [
+        {
+          "src": "../../refs/black-icon/steam-90025977.jpg",
+          "caption": "жёсткий конус света фонаря в густой тьме и кровавый акцент",
+          "source": "https://store.steampowered.com/app/274520/",
+          "credit": "Acid Wizard Studio",
+          "license": "© Acid Wizard Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/black-icon/steam-a899d8b2.jpg",
+          "caption": "давящая клаустрофобия, обесцвеченные доски и одинокий луч света",
+          "source": "https://store.steampowered.com/app/274520/",
+          "credit": "Acid Wizard Studio",
+          "license": "© Acid Wizard Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/black-icon/steam-e0fb31d1.jpg",
+          "caption": "резкий контраст чёрных силуэтов ветвей на фоне тревожного света",
+          "source": "https://store.steampowered.com/app/274520/",
+          "credit": "Acid Wizard Studio",
+          "license": "© Acid Wizard Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/black-icon/gen-21c0dc4c.jpg",
+          "caption": "концепт-кадр: почти монохромная зола и сруб церкви, алый рунный алтарь и золотой фонарь",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        }
+      ]
+    },
+    {
+      "id": "woodcut-mist",
+      "title": "Тёмная Резьба и Туман (Билибин 3D)",
+      "text": "Правило: плотный объёмный туман расслаивает сцену на резные славянские силуэты, а нечисть и Навь светятся ядовитым болотно-изумрудным огнём. Настроение: древняя сказочная жуть глухолесья. Форма: резные идолы, капища, переплетённые ветви. Цвет: мох, ночная лазурь, старая кость + изумруд Нави.",
+      "palette": [
+        "#18211b",
+        "#1f2d3d",
+        "#b5a58d",
+        "#3be88c"
+      ],
+      "tags": [
+        "3D",
+        "объемный туман",
+        "резные силуэты"
+      ],
+      "pros": [
+        "сильная славянская идентичность с первого взгляда",
+        "туман естественно скрывает дальность прорисовки в браузере"
+      ],
+      "cons": [
+        "изумрудная магия может спорить с реализмом, если перекрутить насыщенность"
+      ],
+      "media": [
+        {
+          "src": "../../refs/woodcut-mist/steam-48f9baef.jpg",
+          "caption": "леший с оленьим черепом среди голого леса и искр огня",
+          "source": "https://store.steampowered.com/app/292030/",
+          "credit": "CD PROJEKT RED",
+          "license": "© CD PROJEKT RED — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/woodcut-mist/steam-69c4eb6a.jpg",
+          "caption": "славяно-сказочная жуть: дымка у воды, силуэт чудища за камышами",
+          "source": "https://store.steampowered.com/app/1623940/",
+          "credit": "Dimfrost Studio",
+          "license": "© Dimfrost Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/woodcut-mist/steam-251b1d61.jpg",
+          "caption": "светящиеся глаза нечисти в чёрной осоке вокруг мостка",
+          "source": "https://store.steampowered.com/app/1623940/",
+          "credit": "Dimfrost Studio",
+          "license": "© Dimfrost Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/woodcut-mist/gen-f367a7d4.jpg",
+          "caption": "концепт-кадр: резной идол, слоистый туман, ядовито-изумрудный огонь Нави и леший",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        }
+      ]
+    },
+    {
+      "id": "frost-barrow",
+      "title": "Иней на Курганах (северный реализм)",
+      "text": "Правило: обесцвеченный морозный туман и ржавое железо; косые лучи зимнего света и призрачная бирюза Нави лепят глубину. Настроение: звенящая предрассветная стужа древнего кургана. Форма: каменные курганы, меха, кольчуги, голые берёзы. Цвет: ледяной шифер, ржавчина, иней + бирюза Нави.",
+      "palette": [
+        "#202a33",
+        "#5d6f7d",
+        "#593c2e",
+        "#d8e0e6",
+        "#48c7b8"
+      ],
+      "tags": [
+        "3D",
+        "PBR",
+        "объемный свет",
+        "зимний реализм"
+      ],
+      "pros": [
+        "кинематографичный реализм в духе Hellblade и Ведьмака",
+        "отличная видимость силуэтов на снегу"
+      ],
+      "cons": [
+        "тяжёлые PBR-материалы и кожа/мех дороже для браузерного бюджета"
+      ],
+      "media": [
+        {
+          "src": "../../refs/frost-barrow/steam-567e9aa3.jpg",
+          "caption": "холодный туман на воде, косые лучи и суровый северный реализм",
+          "source": "https://store.steampowered.com/app/414340/",
+          "credit": "Ninja Theory",
+          "license": "© Ninja Theory — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/frost-barrow/steam-9a69ced1.jpg",
+          "caption": "кинематографичный крупный план для фаз боссов и кат-сцен",
+          "source": "https://store.steampowered.com/app/414340/",
+          "credit": "Ninja Theory",
+          "license": "© Ninja Theory — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/frost-barrow/steam-0a0147f9.jpg",
+          "caption": "призрачный синий фонарь и тлеющие угли на границе двух миров",
+          "source": "https://store.steampowered.com/app/1501750/",
+          "credit": "CI Games",
+          "license": "© CI Games — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/frost-barrow/gen-878e15ba.jpg",
+          "caption": "концепт-кадр: зимний курган, берёзы, косые лучи света и бирюзовый разлом Нави",
+          "source": "",
+          "credit": "image generation",
+          "license": "generated for the project",
+          "generated": true
+        }
+      ]
+    }
+  ]
+}

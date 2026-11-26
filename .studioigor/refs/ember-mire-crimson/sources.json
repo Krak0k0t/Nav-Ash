@@ -1,0 +1,86 @@
+{
+  "title": "Вариант A: Алый Жар и Копоть",
+  "text": "Ось: тёпло-агрессивная Навь. Факел и сталь — янтарь (#e05a1b), а сдвиг у Алтаря Нави заливает уровень багровым жаром, кровью и густой копотью. Максимальный накал в духе Diablo IV Hell/Bloodtide.",
+  "palette": [
+    "#0f0d0c",
+    "#2b2522",
+    "#e05a1b",
+    "#9e1b1b",
+    "#454b54"
+  ],
+  "tags": [
+    "R2",
+    "тёплый+багровый",
+    "высокая контрастность"
+  ],
+  "items": [
+    {
+      "file": "gen-fa56f3de.jpg",
+      "url": "",
+      "page": "",
+      "title": "r2_crimson_soot_1795389428743",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "R2 концепт A: факел Яви против алого алтаря Нави и густой копоти",
+      "w": 1376,
+      "h": 768,
+      "sha1": "fa56f3de2b4c9ea08a283339a01660036157cd82",
+      "prompt": "Embers in the Mire Variant A Crimson and Soot"
+    },
+    {
+      "file": "local-bd9eb6ba.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-bd9eb6ba",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "якорь A: агрессивный жар огня на тёмном мокром камне (PoE2)",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "bd9eb6badb1d1dca803cd7048a4fcf72d2a3cfa1"
+    },
+    {
+      "file": "local-854ea36f.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-854ea36f",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "якорь A: алые и золотые вспышки телеграфов в кромешной тьме (Diablo IV)",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "854ea36f8f5eeb7045d12468fae3cf0a38a33fe7"
+    },
+    {
+      "file": "local-f2ef7c14.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-f2ef7c14",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "якорь A: горящие остовы в болотной дымке (Diablo IV)",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "f2ef7c14c7ce3544dcd62117c6e547f846809c97"
+    }
+  ],
+  "pros": [
+    "единый горячий язык боя",
+    "кровь и руны горят поверх тёмного торфа"
+  ],
+  "cons": [
+    "огонь факела и магия Нави в одном тёплом диапазоне — нужно следить за разделением угроз"
+  ]
+}

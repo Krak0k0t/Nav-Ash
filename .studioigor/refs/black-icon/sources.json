@@ -1,0 +1,115 @@
+{
+  "title": "Чёрный Иконостас (смелый)",
+  "text": "Правило: почти монохромный мир золы и обугленного дерева, где цвет оставлен только для сакрального огня, крови и проклятий Нави. Настроение: суровый литургический хоррор. Форма: высокие острые срубы, железные нимбы, иглы елей. Цвет: обсидиан, кость + сусальное золото и алый акцент.",
+  "palette": [
+    "#0c0c0e",
+    "#333238",
+    "#c8bfa8",
+    "#d49b35",
+    "#b81d24"
+  ],
+  "tags": [
+    "3D",
+    "монохром+акцент",
+    "высокий контраст"
+  ],
+  "items": [
+    {
+      "file": "steam-90025977.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/67c867f75005a2786fcfab6741c17061dbef5e3f/ss_67c867f75005a2786fcfab6741c17061dbef5e3f.1920x1080.jpg?t=1795189644",
+      "page": "https://store.steampowered.com/app/274520/",
+      "title": "Darkwood — screenshot 1",
+      "credit": "Acid Wizard Studio",
+      "license": "© Acid Wizard Studio — moodboard only",
+      "api": "steam",
+      "query": "Darkwood",
+      "generated": false,
+      "note": "жёсткий конус света фонаря в густой тьме и кровавый акцент",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "9002597729337c0cfd5ec09469435d0b206f17f6"
+    },
+    {
+      "file": "steam-a899d8b2.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/5b6bdd5ebe2f4f0d816aa2e46c26325e88066fab/ss_5b6bdd5ebe2f4f0d816aa2e46c26325e88066fab.1920x1080.jpg?t=1795189644",
+      "page": "https://store.steampowered.com/app/274520/",
+      "title": "Darkwood — screenshot 2",
+      "credit": "Acid Wizard Studio",
+      "license": "© Acid Wizard Studio — moodboard only",
+      "api": "steam",
+      "query": "Darkwood",
+      "generated": false,
+      "note": "давящая клаустрофобия, обесцвеченные доски и одинокий луч света",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "a899d8b266a6ed1f7fc08d98122537d798615ff3"
+    },
+    {
+      "file": "steam-e0fb31d1.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/5b92f40bd9c44c5abdd18b1d8358c7c72eba4809/ss_5b92f40bd9c44c5abdd18b1d8358c7c72eba4809.1920x1080.jpg?t=1795189644",
+      "page": "https://store.steampowered.com/app/274520/",
+      "title": "Darkwood — screenshot 3",
+      "credit": "Acid Wizard Studio",
+      "license": "© Acid Wizard Studio — moodboard only",
+      "api": "steam",
+      "query": "Darkwood",
+      "generated": false,
+      "note": "резкий контраст чёрных силуэтов ветвей на фоне тревожного света",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "e0fb31d1eba2924d2ad874559d56513ed89ced51"
+    },
+    {
+      "file": "gen-21c0dc4c.jpg",
+      "url": "",
+      "page": "",
+      "title": "concept_black_icon_1795389054730",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "концепт-кадр: почти монохромная зола и сруб церкви, алый рунный алтарь и золотой фонарь",
+      "w": 1376,
+      "h": 768,
+      "sha1": "21c0dc4c073585e3f7cf97c264e347a14d2a2ef3",
+      "prompt": "Black Iconostasis near-monochrome charred Slavic church and crimson rune altar"
+    }
+  ],
+  "pros": [
+    "моментально узнаваемый кадр",
+    "сдвиг в Навь читается мгновенно",
+    "дешевле по текстурам"
+  ],
+  "cons": [
+    "монохром может утомлять в длинной кампании",
+    "легко потерять детали на тёмном экране"
+  ],
+  "dropped": [
+    {
+      "file": "steam-928c896d.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/9c00e471d2cb0690a3f2b0959dc64593ef0e1eb8/ss_9c00e471d2cb0690a3f2b0959dc64593ef0e1eb8.1920x1080.jpg?t=1793295003",
+      "sha1": "928c896daba962c42adfdfdfb9fd242c17ee709f"
+    },
+    {
+      "file": "steam-380b5d66.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/64b45ad0eaf748ff8d4c9bfef51e622638902e37/ss_64b45ad0eaf748ff8d4c9bfef51e622638902e37.1920x1080.jpg?t=1793295003",
+      "sha1": "380b5d666c4b4c0fa02c33b6fc345c78ca99facd"
+    },
+    {
+      "file": "steam-520dd505.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/b2e345c1faf84b3027e811a51bdb439b5f231863/ss_b2e345c1faf84b3027e811a51bdb439b5f231863.1920x1080.jpg?t=1793295003",
+      "sha1": "520dd505f332d840b8bc2346b78a6d84e9b41f86"
+    },
+    {
+      "file": "openverse-33c1779e.jpg",
+      "url": "https://live.staticflickr.com/4012/4624027449_ef035a0fba_b.jpg",
+      "sha1": "33c1779ec8c2886190a0ddd9f4a2d7ebb9a398f5"
+    },
+    {
+      "file": "openverse-e739ae79.jpg",
+      "url": "https://live.staticflickr.com/1038/4602599040_df043efb65_b.jpg",
+      "sha1": "e739ae79b887091527bfd22b3356bf487540a052"
+    }
+  ]
+}

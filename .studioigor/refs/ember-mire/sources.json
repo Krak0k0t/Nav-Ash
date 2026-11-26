@@ -1,0 +1,130 @@
+{
+  "title": "Угли в трясине (как Diablo IV)",
+  "text": "Правило: тёплый огонь факелов и заклинаний отражается в мокрой грязи и стали; всё за границей света тонет в холодном лунном тумане. Настроение: удушливые осенние сумерки. Форма: тяжёлые срубы, коряги, ковка. Цвет: торф и уголь + лунный сланец + янтарный огонь и кровь.",
+  "palette": [
+    "#141210",
+    "#2b2723",
+    "#485665",
+    "#e05a1b",
+    "#9e1b1b"
+  ],
+  "tags": [
+    "3D",
+    "PBR",
+    "темнота+огонь",
+    "нужен постобработчик"
+  ],
+  "items": [
+    {
+      "file": "steam-854ea36f.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/24952fc1c8779c9a7a555c01489c76f9814f70a7/ss_24952fc1c8779c9a7a555c01489c76f9814f70a7.1920x1080.jpg?t=1789491624",
+      "page": "https://store.steampowered.com/app/2344520/",
+      "title": "Diablo® IV — screenshot 2",
+      "credit": "Blizzard Entertainment, Inc.",
+      "license": "© Blizzard Entertainment, Inc. — moodboard only",
+      "api": "steam",
+      "query": "Diablo® IV",
+      "generated": false,
+      "note": "читаемость боя в темноте: яркие телеграфы заклинаний на сыром камне",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "854ea36f8f5eeb7045d12468fae3cf0a38a33fe7"
+    },
+    {
+      "file": "steam-f2ef7c14.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/7eda1d661ffde2750d56517e1a46406f340675e5/ss_7eda1d661ffde2750d56517e1a46406f340675e5.1920x1080.jpg?t=1789491624",
+      "page": "https://store.steampowered.com/app/2344520/",
+      "title": "Diablo® IV — screenshot 3",
+      "credit": "Blizzard Entertainment, Inc.",
+      "license": "© Blizzard Entertainment, Inc. — moodboard only",
+      "api": "steam",
+      "query": "Diablo® IV",
+      "generated": false,
+      "note": "горящие остовы в туманном болоте — баланс тепла огня и мутной дымки",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "f2ef7c14c7ce3544dcd62117c6e547f846809c97"
+    },
+    {
+      "file": "steam-93300341.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/29a8f70e50291aa9fab22a51ec8334f3eedeb267/ss_29a8f70e50291aa9fab22a51ec8334f3eedeb267.1920x1080.jpg?t=1795039854",
+      "page": "https://store.steampowered.com/app/2694490/",
+      "title": "Path of Exile 2 — screenshot 1",
+      "credit": "Grinding Gear Games",
+      "license": "© Grinding Gear Games — moodboard only",
+      "api": "steam",
+      "query": "Path of Exile 2",
+      "generated": false,
+      "note": "тяжёлая каменная кладка и читаемый контраст эффектов атаки",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "93300341129bd42cd6f89983d7f11500b3c1d16d"
+    },
+    {
+      "file": "steam-fee23055.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/31cafb888d499f04022bf47c6bb6ae879ed139ae/ss_31cafb888d499f04022bf47c6bb6ae879ed139ae.1920x1080.jpg?t=1795039854",
+      "page": "https://store.steampowered.com/app/2694490/",
+      "title": "Path of Exile 2 — screenshot 2",
+      "credit": "Grinding Gear Games",
+      "license": "© Grinding Gear Games — moodboard only",
+      "api": "steam",
+      "query": "Path of Exile 2",
+      "generated": false,
+      "note": "плотность деталей окружения без потери силуэта героя",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "fee2305534a13f2e4b382690bdc54dfcbfe87aa6"
+    },
+    {
+      "file": "steam-bd9eb6ba.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/e91a68cabd08ce676bb1a554a0205ac8b0ca6221/ss_e91a68cabd08ce676bb1a554a0205ac8b0ca6221.1920x1080.jpg?t=1795039854",
+      "page": "https://store.steampowered.com/app/2694490/",
+      "title": "Path of Exile 2 — screenshot 3",
+      "credit": "Grinding Gear Games",
+      "license": "© Grinding Gear Games — moodboard only",
+      "api": "steam",
+      "query": "Path of Exile 2",
+      "generated": false,
+      "note": "агрессивный янтарный огонь освещает холодный мокрый пол и обломки",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "bd9eb6badb1d1dca803cd7048a4fcf72d2a3cfa1"
+    },
+    {
+      "file": "gen-8b347539.jpg",
+      "url": "",
+      "page": "",
+      "title": "concept_ember_mire_1795389072553",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "концепт-кадр: срубы в болоте, отражения факелов в грязи против холодного тумана",
+      "w": 1376,
+      "h": 768,
+      "sha1": "8b3475392a64022d6f37b89884e2669f6504524e",
+      "prompt": "Isometric Dark Slavic swamp village in warm amber torchlight vs cold moon fog"
+    }
+  ],
+  "pros": [
+    "читаемость боя и лута проверена в Diablo IV",
+    "живой контраст теплого и холодного"
+  ],
+  "cons": [
+    "риск выглядеть слишком похоже на Diablo IV",
+    "требует честного динамического света"
+  ],
+  "dropped": [
+    {
+      "file": "steam-03bd01f7.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/8512b560be0ddef49cb0da366b7d2ddf5df18cab/ss_8512b560be0ddef49cb0da366b7d2ddf5df18cab.1920x1080.jpg?t=1789491624",
+      "sha1": "03bd01f7f2fb3ef54971b8821d92066ba4e56258"
+    },
+    {
+      "file": "steam-4b87205a.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/38d64c37bf2e84bbec5138cf114529eada712ebc/ss_38d64c37bf2e84bbec5138cf114529eada712ebc.1920x1080.jpg?t=1789491624",
+      "sha1": "4b87205ac34779cb43b113a6431e931f7d00347e"
+    }
+  ]
+}

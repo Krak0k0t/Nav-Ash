@@ -1,0 +1,6 @@
+{
+  "name": "Навь и Пепел — Dark Slavic ARPG",
+  "description": "Action-RPG в стиле Diablo IV в сеттинге мрачного славянского фэнтези с процедурными подземельями и Алтарями Нави.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
